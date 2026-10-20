@@ -1,17 +1,34 @@
-# block_haven
+# Block Haven 🎮
 
-A new Flutter project.
+A Flutter-based block puzzle game for Android.
+
+## Features
+
+- 8×8 puzzle board
+- Three-piece tray for each turn
+- Score tracking and best-score display
+- Shape placement and line-clearing gameplay
+- Sound effects and haptic feedback
+
+## Built With
+
+- Flutter
+- Dart
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1. Install [Flutter](https://docs.flutter.dev/get-started/install).
+2. Clone this repository.
+3. Open the project directory in a terminal.
+4. Run:
 
-A few resources to get you started if this is your first Flutter project:
+   ```bash
+   flutter pub get
+   flutter run
+   ```
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## Project
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Source code for Block Haven is available in this repository.
+
+
